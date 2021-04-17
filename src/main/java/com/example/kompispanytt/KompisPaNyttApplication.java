@@ -1,0 +1,13 @@
+package com.example.kompispanytt;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class KompisPaNyttApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(KompisPaNyttApplication.class, args);
+    }
+
+}
